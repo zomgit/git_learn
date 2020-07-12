@@ -5,4 +5,4 @@ git checkout -b <branchName>
 = git branch <branchName> 
 + git checkout <branchName>
 = git switch -c <branchName>
-git merge
+git merge <branchName>
