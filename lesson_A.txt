@@ -3,4 +3,5 @@ git init
 git config <--global|--local> <--list> 
 git add
 git commit
-git log
+git log <--graph> <--oneline>
+git diff <commit1>
