@@ -1,4 +1,6 @@
-建立分支
+分支
+git branch <--list>
+git branch <branchName> 
 git checkout <-b> <branchName>
 
 git checkout -b <branchName> 
@@ -6,3 +8,5 @@ git checkout -b <branchName>
 + git checkout <branchName>
 = git switch -c <branchName>
 git merge <branchName>
+
+
