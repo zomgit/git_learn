@@ -1,0 +1,7 @@
+建立分支
+git checkout <-b> <branchName>
+
+git checkout -b <branchName> 
+= git branch <branchName> 
++ git checkout <branchName>
+= git switch -c <branchName>
