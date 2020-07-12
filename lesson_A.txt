@@ -1,3 +1,6 @@
 第一节：
 git init
 git config <--global|--local> <--list> 
+git add
+git commit
+git log
