@@ -8,3 +8,4 @@ git log <--graph> <--oneline>
 git diff <commit1>
 git reflog 
 git checkout -- <filename>
+
